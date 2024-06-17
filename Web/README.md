@@ -1,1 +1,1 @@
-<h1>Web challenges.</h1>
+<h1>Web Challenges.</h1>
